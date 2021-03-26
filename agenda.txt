@@ -1,5 +1,16 @@
 This is the agenda file
 hello to lalith,prahrsha,srilekha.
+<<<<<<< HEAD
+our group for ths month's virtusa hackathon
+timings are form 2 to 4  
+=======
 our group for this month's virtusa hackathon
+<<<<<<< HEAD
 ramu added timings and has to be merged
-tried to merge but not happend 
+tried to merge but not happend
+Praharsha also tried to merge but not happend 
+it is my try 3 well checkout it will happend or not 
+=======
+Adding details
+>>>>>>> d91c4e04af51bbe757ae906ee1198d03c0ed39e2
+>>>>>>> baedf388f240a5a33c1238068417e601460fe2d5
