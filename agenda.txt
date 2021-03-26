@@ -1,4 +1,9 @@
 This is the agenda file
 hello to lalith,prahrsha,srilekha.
+<<<<<<< HEAD
 our group for ths month's virtusa hackathon
 timings are form 2 to 4  
+=======
+our group for this month's virtusa hackathon
+Adding details
+>>>>>>> d91c4e04af51bbe757ae906ee1198d03c0ed39e2
